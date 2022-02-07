@@ -1,0 +1,3 @@
+/Users/student/CLionProjects/My mastermind/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/student/CLionProjects/My mastermind/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/student/CLionProjects/My mastermind/cmake-build-debug/CMakeFiles/My_mastermind.dir

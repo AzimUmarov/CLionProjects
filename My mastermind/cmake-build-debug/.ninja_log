@@ -1,0 +1,17 @@
+# ninja log v5
+1	282	1642699887059775704	CMakeFiles/My_mastermind.dir/main.c.o	a9aae4bae16bd107
+283	400	1642699887176952822	My_mastermind	c19ce4574e79d214
+1	45	1642700298536033503	CMakeFiles/My_mastermind.dir/main.c.o	a9aae4bae16bd107
+45	94	1642700298586261494	My_mastermind	c19ce4574e79d214
+0	86	1642756140205020649	CMakeFiles/My_mastermind.dir/main.c.o	a9aae4bae16bd107
+86	140	1642756140261444338	My_mastermind	c19ce4574e79d214
+1	48	1642756182396430427	CMakeFiles/My_mastermind.dir/main.c.o	a9aae4bae16bd107
+48	101	1642756182450290250	My_mastermind	c19ce4574e79d214
+1	52	1642756192382877605	CMakeFiles/My_mastermind.dir/main.c.o	a9aae4bae16bd107
+52	100	1642756192432340909	My_mastermind	c19ce4574e79d214
+0	70	1642756223469294725	CMakeFiles/My_mastermind.dir/main.c.o	a9aae4bae16bd107
+70	124	1642756223524603771	My_mastermind	c19ce4574e79d214
+0	52	1642756257580998299	CMakeFiles/My_mastermind.dir/main.c.o	a9aae4bae16bd107
+52	98	1642756257627448588	My_mastermind	c19ce4574e79d214
+1	73	1642757608592373952	CMakeFiles/My_mastermind.dir/main.c.o	a9aae4bae16bd107
+73	126	1642757608647408662	My_mastermind	c19ce4574e79d214

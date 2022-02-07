@@ -1,0 +1,3 @@
+/Users/student/CLionProjects/my_printf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/student/CLionProjects/my_printf/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/student/CLionProjects/my_printf/cmake-build-debug/CMakeFiles/my_printf.dir
